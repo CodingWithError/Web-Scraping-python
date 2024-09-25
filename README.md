@@ -66,7 +66,7 @@ python DatascrapingofFlipcart.py
 python DatascrapingofSnapdeal.py
 ```
 
-##To run the complete price comparison script, execute:
+## To run the complete price comparison script, execute:
 ```bash
 python endproduct.py
 ```
